@@ -47,3 +47,5 @@ class Interface:
         jeu.verifier_reponse(reponse_utilisateur)
         self.afficher_question()
         self.essais_label.config(text=f"Essais restants : {jeu.essais_restants}")
+    # API_KEY = "hgfhghjhgbvcxccvcvc"
+    # PASSXORD = "ghfhfgh"
