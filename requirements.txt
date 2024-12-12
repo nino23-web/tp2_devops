@@ -1,4 +1,2 @@
-Flask==0.6  # Une version ancienne avec des vulnérabilités connues
-Django==1.11  # Cette version n'est plus maintenue
-requests==2.19.1  # Vulnérabilités connues dans cette version
-pyyaml==4.1  # Version vulnérable avec des failles RCE
+flask==1.0.2  # Version vulnérable
+requests==2.20.0  # Version vulnérable
